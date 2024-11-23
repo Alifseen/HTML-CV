@@ -2,4 +2,4 @@
 
 This was my first HTML Project.
 
-Be sure to add your own picture in line 24 of index.htnml
+Be sure to add your own picture in line 24 of index.html
